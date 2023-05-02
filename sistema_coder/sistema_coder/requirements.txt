@@ -1,0 +1,4 @@
+asgiref==3.6.0                                                                                           _virtu
+Django==4.2    
+sqlparse==0.4.4                                                                                          _coder
+tzdata==2023.3django
